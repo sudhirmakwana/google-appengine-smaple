@@ -1,6 +1,0 @@
-com\globant\controller\MemcacheController.class
-com\globant\controller\JDOController.class
-com\globant\dataaccess\PersistentManager.class
-com\globant\model\Customer.class
-com\globant\controller\DataStoreExample.class
-com\globant\controller\ClouldSQLController.class
